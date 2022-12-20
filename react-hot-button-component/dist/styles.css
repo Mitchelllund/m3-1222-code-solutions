@@ -1,0 +1,30 @@
+.off {
+  background-color: blue;
+  color: white;
+}
+
+.lvl-1 {
+  background-color: purple;
+  color: white;
+}
+
+.lvl-2 {
+  background-color: plum;
+}
+
+.lvl-3 {
+  background-color: salmon;
+}
+
+.lvl-4 {
+  background-color: orange;
+}
+
+.lvl-5 {
+  background-color: yellow;
+}
+
+.lvl-6 {
+  background-color: red;
+  color: white;
+}
